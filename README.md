@@ -8,9 +8,6 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 
 **Early preview** in Chrome 146+ Canary (Feb 2026). Polyfills + extensions work everywhere today.
 
-![WebMCP Flight Search Demo](https://searchengineland.com/wp-content/uploads/2026/02/webmcp-flight-demo.jpg)  
-*Official Chrome Labs flight booking demo — agents call structured tools instantly*
-
 ⭐ **Star this list** if you're building the agentic web! Contributions & PRs always welcome.
 
 ## Contents
