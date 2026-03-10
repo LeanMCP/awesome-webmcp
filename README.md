@@ -50,21 +50,16 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 
 ## Demos and Samples
 
-### 🔥 LeanMCP Showcase Demos (Must-Try — Viral Hits!)
-The **LeanMCP team** built these jaw-dropping creative WebMCP demos. They show AI agents directly controlling complex, stateful, visual UIs in real time — some of the most impressive and viral examples in the entire ecosystem.
-
-- **[Music Composer](https://music.leanmcp.live/)** — AI agents compose full music tracks live on a real piano roll! Call tools like `addNote()`, `setTempo()`, `addTrack()`, `play()`, and watch notes appear instantly. Press play to hear your AI-generated song. Widely called **“the first non-trivial WebMCP demo”**.  
+- **[Music Composer](https://music.leanmcp.live/)** — AI agents compose music tracks on a piano roll in real time.  
   Open-source: [Leanmcp-Community/music-composer-webmcp](https://github.com/Leanmcp-Community/music-composer-webmcp)
 
-- **[Super Mario Scenes](https://supermario.leanmcp.live/)** — AI agents generate infinite playable Super Mario levels and scenes **on the fly**. Full dynamic game content creation with WebMCP tool calls. Pure generative joy.
+- **[Super Mario Scenes](https://supermario.leanmcp.live/)** — Generate infinite playable Super Mario levels on the fly.
 
-- **[Excalidraw WebMCP](https://excalidraw.leanmcp.live/)** — AI agents draw, edit, and collaborate directly on a live Excalidraw canvas. Perfect for architecture diagrams, flowcharts, or creative brainstorming.
+- **[Excalidraw WebMCP](https://excalidraw.leanmcp.live/)** — Draw and edit on a live Excalidraw canvas.
 
-- **[Graphite Draw](https://graphite.webmcp.live/)** — Professional vector illustration app fully controlled by AI agents via WebMCP. Create and manipulate stunning vector artwork in real time.
+- **[Graphite Draw](https://graphite.leanmcp.live/)** — Create vector artwork in real time.
 
-These demos prove WebMCP shines for **creative, visual, and stateful applications**. Star the repos and try them with Claude or Gemini!
 
-### Other Official & Community Demos
 - [GoogleChromeLabs React Flight Search](https://googlechromelabs.github.io/webmcp-tools/demos/react-flightsearch/) — Official travel booking demo
 - [MCP-B Live Tool Examples](https://docs.mcp-b.ai/live-tool-examples)
 - [webmcp.dev Widget Demo](https://webmcp.dev)
@@ -107,7 +102,7 @@ These demos prove WebMCP shines for **creative, visual, and stateful application
 ## Websites
 - https://mcp-b.ai/
 - https://webmachinelearning.github.io/webmcp/
-- https://leanmcp.com/ (home of the viral creative demos)
+- https://leanmcp.com/ 
 
 ## Contributing & Support
 - Fork & open PRs (especially more LeanMCP-style creative showcases!)
