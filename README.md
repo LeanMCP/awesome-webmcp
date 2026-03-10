@@ -1,4 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 # Awesome WebMCP 🤖
 
 > A curated list of awesome resources, tools, demos, SDKs, articles, and projects for **WebMCP** (Web Model Context Protocol) — the new W3C browser-native standard that turns any website into structured tools for AI agents.
@@ -108,6 +109,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 
 ## Contributing & Support
 - Fork & open PRs (especially more LeanMCP-style creative showcases!)
+- See our [Code of Conduct](CODE_OF_CONDUCT.md) for community guidelines
 - ⭐ Star: webmachinelearning/webmcp, WebMCP-org/npm-packages, LeanMCP/leanmcp-sdk, and the music-composer-webmcp repo
 - Try the LeanMCP demos and share screenshots on X/Reddit with **#WebMCP**
 - Build something? Add it here!
