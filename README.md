@@ -77,9 +77,8 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - Search Engine Land: [WebMCP explained — Inside Chrome 146](https://searchengineland.com/webmcp-explained-inside-chrome-146s-agent-ready-web-preview-470630)
 
 ## Blogs
-- Arcade.dev: [WebMCP: Making Every Website a Tool for AI Agents (Alex Nahas interview)](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview)
-- Department of Product: [WebMCP Explained for Product Teams](https://departmentofproduct.substack.com/p/webmcp-explained-for-product-teams)
-- Medium: Hands-on guides (Angular, 3KB polyfill, six-tool demo)
+- [WebMCP: Making Every Website a Tool for AI Agents (Alex Nahas interview)](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview)
+- [WebMCP Explained for Product Teams](https://departmentofproduct.substack.com/p/webmcp-explained-for-product-teams)
 
 ## Videos
 - [WebMCP: Agents on the Web and in the Browser (Alex Nahas interview)](https://www.youtube.com/watch?v=6Po39iD6Pfs)
@@ -90,10 +89,13 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - [W3C Web Machine Learning Community Group](https://webmachinelearning.github.io/community/#join)
 - [WebMCP Spec Repo](https://github.com/webmachinelearning/webmcp)
 - [MCP-B Discord](https://discord.gg/ZnHG4csJRB)
+- [LeanMCP Discord](https://discord.com/invite/DsRcA3GwPy)
 
 ## Presentations & Testimonials
 - W3C TPAC 2025 demo recording by Alex Nahas
-- Web AI Summit 2025 talk by Khushal Sagar
+- [Web AI Summit 2025 talk by Khushal Sagar](https://www.youtube.com/watch?v=p1l8nkQAoUw&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=7)
+- [Music Composer Demo](https://www.youtube.com/watch?v=uMQWCdWrOTY)
+- [Super Mario Scenes Demo](https://www.youtube.com/watch?v=Xi3DgAha4pE)
 
 ## Tutorials
 - [Chrome WebMCP — The Complete 2026 Guide](https://dev.to/czmilo/chrome-webmcp-the-complete-2026-guide-to-ai-agent-protocol-1ae9)
