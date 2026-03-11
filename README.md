@@ -41,6 +41,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
   GitHub: [WebMCP-org/npm-packages](https://github.com/WebMCP-org/npm-packages)
 - **[GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools)** — Official demos + inspector
 - **[LeanMCP SDK](https://github.com/LeanMCP/leanmcp-sdk)** — TypeScript & Python decorators + managed edge deployment (OAuth, rate limiting, logs, analytics)
+- **[webmcp-sdk](https://www.npmjs.com/package/webmcp-sdk)** — Full developer toolkit for WebMCP integration. Core registration, React hooks, security middleware, testing utilities. 932 weekly downloads.
 
 ## Tools & Inspector Extensions
 - **[Model Context Tool Inspector](https://chromewebstore.google.com/detail/model-context-tool-inspec/gbpdfapgefenggkahomfgkhfehlcenpd)** — Official Chrome Labs tool (inspect + execute live)
