@@ -98,6 +98,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 ## Tutorials
 - [Chrome WebMCP — The Complete 2026 Guide](https://dev.to/czmilo/chrome-webmcp-the-complete-2026-guide-to-ai-agent-protocol-1ae9)
 - [MCP-B Full Documentation](https://docs.mcp-b.ai/)
+- [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging WebMCP in existing JavaScript or TypeScript web apps, including `registerTool()`, declarative forms, and validation flows.
 
 ## Websites
 - https://mcp-b.ai/
