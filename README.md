@@ -59,6 +59,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 
 
 - [GoogleChromeLabs React Flight Search](https://googlechromelabs.github.io/webmcp-tools/demos/react-flightsearch/) — Official travel booking demo
+- [isainative.dev](https://isainative.dev/) — Audit public GitHub repositories for AI coding readiness. Exposing both declarative and imperative WebMCP tools.
 - [MCP-B Live Tool Examples](https://docs.mcp-b.ai/live-tool-examples)
 - [webmcp.dev Widget Demo](https://webmcp.dev)
 
