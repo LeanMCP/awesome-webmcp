@@ -103,6 +103,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - https://mcp-b.ai/
 - https://webmachinelearning.github.io/webmcp/
 - https://leanmcp.com/ 
+- [agent-ready.dev](https://agent-ready.dev) — Scores any website 0–100 for AI-agent readability and exposes its own WebMCP tools (`scan_site`, `get_scan`, `ask`) via `navigator.modelContext`, so in-browser agents can run scans directly.
 
 ## Contributing & Support
 - Fork & open PRs (especially more LeanMCP-style creative showcases!)
