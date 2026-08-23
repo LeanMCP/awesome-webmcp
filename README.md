@@ -104,6 +104,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - https://webmachinelearning.github.io/webmcp/
 - https://leanmcp.com/ 
 
+- https://webmcp.today/
 ## Contributing & Support
 - Fork & open PRs (especially more LeanMCP-style creative showcases!)
 - See our [Code of Conduct](CODE_OF_CONDUCT.md) for community guidelines
