@@ -15,6 +15,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - [Try out WebMCP](#try-out-webmcp)
 - [SDKs & Libraries](#sdks--libraries)
 - [Tools & Inspector Extensions](#tools--inspector-extensions)
+- [Benchmarks](#benchmarks)
 - [Demos and Samples](#demos-and-samples)
 - [Frameworks](#frameworks)
 - [Articles](#articles)
@@ -45,6 +46,10 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 ## Tools & Inspector Extensions
 - **[Model Context Tool Inspector](https://chromewebstore.google.com/detail/model-context-tool-inspec/gbpdfapgefenggkahomfgkhfehlcenpd)** — Official Chrome Labs tool (inspect + execute live)
 - MCP-B Chrome/Edge/Firefox Extension — sidebar chat that discovers tools across tabs
+- **[WebMCP Kit](https://github.com/nekuda-ai/webmcp-kit)** — Plugin for coding agents with an interactive visual Explorer that maps a site's user journeys to proposed WebMCP tools for review and approval, then implements and verifies them in a real browser.
+
+## Benchmarks
+- **[WindTunnel](https://github.com/nekuda-ai/WindTunnel)** — Open-source benchmark comparing WebMCP with other browser-agent interfaces across task success, execution time, token usage, and cost.
 
 ## Demos and Samples
 
