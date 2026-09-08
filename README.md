@@ -103,6 +103,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - https://mcp-b.ai/
 - https://webmachinelearning.github.io/webmcp/
 - https://leanmcp.com/ 
+- [Scholar Sidekick](https://scholar-sidekick.com/integrations/webmcp) — Resolves scholarly identifiers and verifies citations, exposing seven WebMCP tools (`verifyCitation`, `auditBibliography`, `checkRetraction`, `checkOpenAccess`, `resolveIdentifier`, `formatCitation`, `exportCitation`) via `navigator.modelContext` so in-browser agents can verify a citation or audit a whole bibliography, format citations, and check retraction and open-access status directly.
 
 ## Contributing & Support
 - Fork & open PRs (especially more LeanMCP-style creative showcases!)
