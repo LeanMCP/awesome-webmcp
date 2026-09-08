@@ -100,6 +100,8 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - [MCP-B Full Documentation](https://docs.mcp-b.ai/)
 
 ## Websites
+
+- [Settled Estate](https://settledestate.com/webmcp/) - Public probate and estate-guidance search, dated comparisons of five reviewed will makers, and state executor-compensation calculators. Browser WebMCP tools update the same visible controls used manually, with source dates, price conditions and explicit unknowns. Financial inputs stay out of shared URLs.
 - https://mcp-b.ai/
 - https://webmachinelearning.github.io/webmcp/
 - https://leanmcp.com/ 
