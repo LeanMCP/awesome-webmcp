@@ -48,6 +48,8 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 
 ## Demos and Samples
 
+- [Haul Handbook](https://www.haulhandbook.com/) - Trucking reference with four native browser WebMCP tools for site search, navigation, load-dimension comparisons across 51 U.S. jurisdictions, and sourced IFTA fuel-tax rate lookup. Tools update visible controls and preserve source dates and unknown rates. Tested in Chrome 153 with WebMCP enabled.
+
 - **[Music Composer](https://music.leanmcp.live/)** — AI agents compose music tracks on a piano roll in real time.  
   Open-source: [Leanmcp-Community/music-composer-webmcp](https://github.com/Leanmcp-Community/music-composer-webmcp)
 
